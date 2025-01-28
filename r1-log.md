@@ -17,3 +17,10 @@ Some of the resources I have used today:
 - https://www.geeksforgeeks.org/how-to-count-occurrences-of-specific-value-in-pandas-column/
 - https://docs.streamlit.io/develop/api-reference/data/st.dataframe
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+
+### R1D4 27 Jan
+Today has been a study day. Lots of active learning but not building on the project - rather, reviewing basics so I can build it right. Spent two hours on learning how to use python to get information needed from a HTML page, e.g. when a webpage doesn't have an API but the data is publicly available. This might be a way to get additional info to support the CSV download, if the Companies House API isn't an option. 
+
+### R1D5 28 Jan
+I couldn't get the project to work right with multiple file uploads so I think I need to trigger it somehow to only start the work after all the files have been uploaded, then it needs to check for duplicates, then I can explode the data to analyse the SIC codes. Onwards!
+
