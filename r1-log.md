@@ -26,3 +26,6 @@ I couldn't get the project to work right with multiple file uploads so I think I
 
 ### R1D6 29 Jan
 Class day! Today was lesson 6 of 8, whereby we're starting our group projects. We reviewed using APIs in python which was super helpful. I was paired with two people to use python to create a "top trumps" Pokemon game, assigning random pokemon to the player and the opponent. Spent time learning more about how functions work to be able to use them for this example, but also for the companies analysis project. I think that'll help with the issues I had earlier - if I use a button to trigger a function, that should fix the issue. Onwards!
+
+### R1D7 30 Jan
+Finished refreshing my [HTML/CSS](https://learn.shayhowe.com/html-css/) knowledge ready for some interfaces, per 100dev lessons, and worked on some HTML website files to put it into practice. Pleased by how much I remember despite not working with websites properly for a few years now!
