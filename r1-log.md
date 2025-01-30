@@ -24,3 +24,5 @@ Today has been a study day. Lots of active learning but not building on the proj
 ### R1D5 28 Jan
 I couldn't get the project to work right with multiple file uploads so I think I need to trigger it somehow to only start the work after all the files have been uploaded, then it needs to check for duplicates, then I can explode the data to analyse the SIC codes. Onwards!
 
+### R1D6 29 Jan
+Class day! Today was lesson 6 of 8, whereby we're starting our group projects. We reviewed using APIs in python which was super helpful. I was paired with two people to use python to create a "top trumps" Pokemon game, assigning random pokemon to the player and the opponent. Spent time learning more about how functions work to be able to use them for this example, but also for the companies analysis project. I think that'll help with the issues I had earlier - if I use a button to trigger a function, that should fix the issue. Onwards!
