@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Anna
+# #100DaysOfCode Log - Round 1 - beastapple
 
 The log of my #100DaysOfCode challenge. Started on Friday 24 January 2025.
 
