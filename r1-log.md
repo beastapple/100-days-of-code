@@ -36,3 +36,4 @@ Spent a couple hours on Javascript and comparing javascript uses vs python. Watc
 ### R1D9 1 Feb
 Saturday with no plans means I've had a LOT of time to dig into stuff! Spent a couple hours on 100devs javascript, then a bit the bullet and did a bunch of work on the companies data dashboard. The study from the last couple days has helped a lot but definitely much more valuable to spend time coding. Feeling like it's getting somewhere!
 
+
