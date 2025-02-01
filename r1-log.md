@@ -29,3 +29,10 @@ Class day! Today was lesson 6 of 8, whereby we're starting our group projects. W
 
 ### R1D7 30 Jan
 Finished refreshing my [HTML/CSS](https://learn.shayhowe.com/html-css/) knowledge ready for some interfaces, per 100dev lessons, and worked on some HTML website files to put it into practice. Pleased by how much I remember despite not working with websites properly for a few years now!
+
+### R1D8 31 Jan
+Spent a couple hours on Javascript and comparing javascript uses vs python. Watched [Javascript crash course for beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia). Fell asleep to a 100devs video and dreamt about Smurfs. 10/10 do not recommend, very bizarre. 
+
+### R1D9 1 Feb
+Saturday with no plans means I've had a LOT of time to dig into stuff! Spent a couple hours on 100devs javascript, then a bit the bullet and did a bunch of work on the companies data dashboard. The study from the last couple days has helped a lot but definitely much more valuable to spend time coding. Feeling like it's getting somewhere!
+
