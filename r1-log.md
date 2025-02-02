@@ -36,4 +36,7 @@ Spent a couple hours on Javascript and comparing javascript uses vs python. Watc
 ### R1D9 1 Feb
 Saturday with no plans means I've had a LOT of time to dig into stuff! Spent a couple hours on 100devs javascript, then a bit the bullet and did a bunch of work on the companies data dashboard. The study from the last couple days has helped a lot but definitely much more valuable to spend time coding. Feeling like it's getting somewhere!
 
+### R1D10 2 Feb
+Finished this tutorial [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API ](https://www.youtube.com/watch?v=V0P3Opf-zUs&t=1448s&ab_channel=TraversyMedia) which was super useful to get a real-world idea of how these javasccript bits and pieces will actually come together. It's the first time I've done anything serverless, which is really cool!
+
 
