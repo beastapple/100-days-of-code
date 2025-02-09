@@ -39,4 +39,28 @@ Saturday with no plans means I've had a LOT of time to dig into stuff! Spent a c
 ### R1D10 2 Feb
 Finished this tutorial [TTS & Translate App | Serverless Functions, Google Translate & Web Speech API ](https://www.youtube.com/watch?v=V0P3Opf-zUs&t=1448s&ab_channel=TraversyMedia) which was super useful to get a real-world idea of how these javasccript bits and pieces will actually come together. It's the first time I've done anything serverless, which is really cool!
 
+### R1D11 3 Feb
+Completed the first Super Review of #100devs! Diving into JS proper now.
+
+### R1D12 4 Feb
+Completed classes 19 of #100devs, bar homework.
+
+### R1D13 5 Feb
+Second to last day of my 8 week pythons course, really going to miss learning live in a group! Finished the 'top trumps' game project we're working on and learned about applying functions to clean up code execution and make code loop, e.g. to repeat a game until exiting.
+
+### R1D14 6 Feb
+Read more of [The JS Way](https://thejsway.net/) and did some crash course learning on GitHub.
+
+### R1D15 7 Feb
+Read chapters 1-2 of [Eloquent Javascript.](https://eloquentjavascript.net/) - not feeling great so didn't do much.
+
+### R1D16 8 Feb
+Completed projects 1-4 in the Javascript30 challenge and studied some more #100devs. Studied a LOT about what sorts of technologies and services the web agencies in my county are providing, both for potential career planning and also to think of how to position myself differently when I'm ready to offer services.
+
+### R1D17 9 Feb
+SIC counts finally added to the Companies Analysis project! Learned about and applied the explode, split, and groupby methods. Learning about plotly but getting stuck on how to make the chart useful - might need to combine the SIC codes with a database of the SIC descriptions so it's more useful in situ. Helpful reading:
+- https://www.geeksforgeeks.org/how-to-split-explode-pandas-dataframe-string-entry-to-separate-rows/
+- https://stackoverflow.com/questions/33483670/how-to-group-a-series-by-values-in-pandas
+
+
 
