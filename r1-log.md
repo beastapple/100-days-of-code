@@ -62,5 +62,17 @@ SIC counts finally added to the Companies Analysis project! Learned about and ap
 - https://www.geeksforgeeks.org/how-to-split-explode-pandas-dataframe-string-entry-to-separate-rows/
 - https://stackoverflow.com/questions/33483670/how-to-group-a-series-by-values-in-pandas
 
+### R1D18 10 Feb
+Working through fCC javascript lessons, craving that quick win of a little certification to mark the progress I'm making so far.
 
+### R1D19 11 Feb
+Completed the fCC javacsript lessons on making a little 'Dragon Repeller' RPG game. Had so much fun with it I personalised it to theme it around our cats. Was a lot of fun watching my husband play!
 
+### R1D20 12 Feb
+Presented the 'top trumps' game I worked on for CFG, confirmed I'll be getting my certification, whoop! :) Spent some time trying to translate the game from terminal into a Streamlit app and couldn't get it to work - the logic will be way different, but I was able to get the player and opponent pokemon images to display at least!
+
+### R1D21 13 Feb
+Really enjoying the fCC javascript lessons. More of them underway, completed rock paper scissors & a calorie counter.
+
+### R1D22 14 Feb
+Happy Valentine's! Working through more fCC javascript lessons and joining the Leon Noel 100devs stream tonight.
