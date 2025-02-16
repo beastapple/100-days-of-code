@@ -76,3 +76,9 @@ Really enjoying the fCC javascript lessons. More of them underway, completed roc
 
 ### R1D22 14 Feb
 Happy Valentine's! Working through more fCC javascript lessons and joining the Leon Noel 100devs stream tonight.
+
+### R1D23 15 Feb
+Learning how to use Appwrite and work with a back end! feels legit!
+
+### R1D24 16 Feb
+Working through Upskill lessons to get a solid feel for a full stack web app. This is an amazing resource, free!
