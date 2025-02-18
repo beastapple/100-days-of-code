@@ -82,3 +82,6 @@ Learning how to use Appwrite and work with a back end! feels legit!
 
 ### R1D24 16 Feb
 Working through Upskill lessons to get a solid feel for a full stack web app. This is an amazing resource, free!
+
+### R1D25 17 Feb
+25% of the way through! Working through the Upskill lessons and some appwrite and vercel documentation. I wasn't able to participate in the 100devs mini hackathon but I'll do it myself this weekend!
