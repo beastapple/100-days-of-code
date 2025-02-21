@@ -85,3 +85,14 @@ Working through Upskill lessons to get a solid feel for a full stack web app. Th
 
 ### R1D25 17 Feb
 25% of the way through! Working through the Upskill lessons and some appwrite and vercel documentation. I wasn't able to participate in the 100devs mini hackathon but I'll do it myself this weekend!
+
+### R1D27 18 Feb
+Working through Upskill :)
+
+### R1D28 19 Feb
+Spent some time on the UK companies analysis project, figured out how to get the pie chart to display properly (human error and not code being wrong as such, as it turns out... I was trying to build the chart off the wrong dataframe!) and added the SIC descriptions - both as a guide and in situ for the chart! Feels like it's really getting somewhere!
+
+### R1D29 20 Feb
+Study and reading time - Eloquent Javascript mainly!
+
+### R1D30 21 Feb
